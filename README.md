@@ -1,4 +1,4 @@
 yolo-octo-ninja
 ===============
 
-Ephemeral
+Ephemeral. As in this will be going away soon.
